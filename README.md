@@ -11,9 +11,10 @@ Link del CSS: https://github.com/Nicogomezbeltran/Examen-Parte-3/blob/main/CSS
 
 Despues he descargado el archivo con las imagenes  y lo he puesto en mi Visual Studio Code. Para así despues, coger el codigo de github y modificarlo.
 
-Link del codigo de GitHub: https://github.com/mdn/learning-area/blob/master/html/multimedia-and-embedding/mdn-splash-page-start/index.html  
+Link del codigo de GitHub:
+https://github.com/mdn/learning-area/blob/master/html/multimedia-and-embedding/mdn-splash-page-start/index.html  
 
-Desde el Visual Studio Code, he modificado los comandos para que se vea similar al contenido de la practica.
+Desde el Visual Studio Code, he insertado tanto las imagenes como un video sacado de youtube para que tenga una apariencia similar al ejercicio propuesto.
 
 Link de actividad resuelta: 
 
