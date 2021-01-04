@@ -18,9 +18,9 @@
 
   Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-3/blob/main/Examen%203/Examen%203.html
 
-Ejercicio Resuelto
+  Ejercicio Resuelto
 
-practica 1 resuelta
+  practica 1 resuelta
 
 
 
