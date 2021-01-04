@@ -19,6 +19,8 @@
   Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-3/blob/main/Examen%203/Examen%203.html
 
   ***Ejercicio Resuelto***
+  ![ejercicio mio resuelto](https://user-images.githubusercontent.com/73166385/103537029-e390aa80-4e93-11eb-9776-c7875d991dcc.PNG)
+
 
   
 
