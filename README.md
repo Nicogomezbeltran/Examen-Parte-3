@@ -9,9 +9,9 @@ Primero he copiado el codigo CSS y lo he pegado en mi Visual Studio Code
 
 Link del CSS: https://github.com/Nicogomezbeltran/Examen-Parte-3/blob/main/CSS
 
-Despues he descargado el archivo con las imagenes  y lo he puesto en mi Visual Studio Code. Para así despues, coger el texto y pegarlo.
+Despues he descargado el archivo con las imagenes  y lo he puesto en mi Visual Studio Code. Para así despues, coger el codigo de github y modificarlo.
 
-Link del texto de GitHub: 
+Link del codigo de GitHub:  
 
 Desde el Visual Studio Code, he modificado los comandos para que se vea similar al contenido de la practica.
 
