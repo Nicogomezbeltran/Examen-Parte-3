@@ -16,7 +16,7 @@ https://github.com/mdn/learning-area/blob/master/html/multimedia-and-embedding/m
 
 Desde el Visual Studio Code, he insertado tanto las imagenes como un video sacado de youtube para que tenga una apariencia similar al ejercicio propuesto.
 
-Link de actividad resuelta: 
+Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-3/blob/main/Examen%203/Examen%203.html
 
 Ejercicio Resuelto
 
