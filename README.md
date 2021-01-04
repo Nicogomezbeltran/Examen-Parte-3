@@ -9,7 +9,7 @@ Primero he copiado el codigo CSS y lo he pegado en mi Visual Studio Code
 
 Link del CSS: https://github.com/Nicogomezbeltran/Examen-Parte-3/blob/main/CSS
 
-Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
+Despues he descargado el archivo con las imagenes  y lo he puesto en mi Visual Studio Code. Para así despues, coger el texto y pegarlo.
 
 Link del texto de GitHub: 
 
