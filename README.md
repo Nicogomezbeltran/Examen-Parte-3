@@ -1,6 +1,6 @@
 # Examen-Parte-3
 Ejercicio Propuesto
-
+![ejercicio resuelto](https://user-images.githubusercontent.com/73166385/103529763-893d1d00-4e86-11eb-8414-144be989db1c.png)
 
 ¿Que he hecho?
 
